@@ -1,0 +1,7 @@
+.side-drawer-list-item .MuiListItemIcon-root {
+    min-width: 2.5rem;
+}
+
+.side-drawer-list-item .MuiListItemText-primary {
+    font-size: 0.95rem;
+}

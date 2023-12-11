@@ -1,0 +1,46 @@
+.mail-details-container {
+  height: 838px;
+  width: 100%;
+  .mail-details-grid {
+    font-size: 18px;
+  }
+}
+.mail-details-heading {
+  margin-top: 85px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.mail-details-search-container {
+  margin: 23px;
+  margin-left: 75%;
+  margin-right: 30px;
+}
+
+.subject-header {
+  color: #007bff;
+}
+
+.status-header {
+  color: #28a745;
+}
+.id-header {
+  color: #615d21;
+}
+
+.smaller-font {
+  font-size: 14px;
+}
+.timing-header {
+  color: rgb(233, 233, 13);
+}
+.forwarded-header {
+  color: rgb(37, 124, 124);
+  margin-right: 34px;
+}
+/* .id-icon,
+.subject-icon,
+.status-icon,
+.timing-icon,
+.forwarded-icon {
+  font-size: 44px;
+} */

@@ -1,0 +1,98 @@
+.mail-tracker-parent-container {
+  height: 838px;
+  width: 100%;
+  .mail-tracker-data-grid {
+    font-size: 18px;
+  }
+}
+.larger-font .MuiDataGrid-columnHeaderTitle {
+  font-size: 22px;
+}
+.larger-font {
+  background-color: rgb(245, 243, 243);
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  background-color: #f1f3f4;
+  border-radius: 4px;
+  padding: 4px;
+  margin-left: auto;
+}
+
+.search-input {
+  width: 200px;
+  margin-left: 8px;
+}
+.mail-tracker-searchbar {
+  margin: 23px;
+  margin-left: 75%;
+  margin-right: 30px;
+}
+.mail-tracker-heading {
+  text-align: center;
+  margin-top: 22px;
+}
+
+.failed-header {
+  color: red;
+}
+
+.deliver-header {
+  color: green;
+}
+
+.open-header {
+  color: blue;
+}
+
+.read-header {
+  color: purple;
+}
+
+.click-header {
+  color: orange;
+}
+/* .icon-failed,
+.icon-deliver,
+.icon-click,
+.icon-client-email,
+.icon-open,
+.icon-sno,
+.icon-read {
+  vertical-align: middle;
+  margin-right: 5px;
+  font-size: 30px;
+} */
+
+.sno-header svg {
+  font-size: 30px;
+  margin-right: 5px;
+}
+
+.email-header svg {
+  font-size: 30px;
+  margin-right: 5px;
+}
+
+.deliver-header svg {
+  font-size: 30px;
+  margin-right: 5px;
+}
+.click-header svg {
+  font-size: 30px;
+  margin-right: 5px;
+}
+.failed-header svg {
+  font-size: 30px;
+  margin-right: 5px;
+}
+.read-header svg {
+  font-size: 30px;
+  margin-right: 5px;
+}
+.open-header svg {
+  font-size: 30px;
+  margin-right: 5px;
+}
